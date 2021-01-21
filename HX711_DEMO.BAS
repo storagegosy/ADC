@@ -37,7 +37,7 @@ Do
   Hx711_read = Count
   Hx711 = Str(hx711_read)
 Lowerline
-Lcd "nilai = " ; Hx711 ; "  "
+Lcd "X = " ; Hx711 ; "  "
 
 Waitms 200
 
