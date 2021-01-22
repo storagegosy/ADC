@@ -1,6 +1,10 @@
 This project ADC HX711 for micro voltmeter measurement
 i use ancient language programming BASCOM-8051 on 89C52RC MCU
 Does anyone here like this basic compiler ?
+HX711 is Analog Digital Converter with true 24bit
+you can test the bit 1-24 has true false, 25 to the rest is only true condition
+the location analog bits is very very tiny about below nano volt precision.
+need make more not detailed response so we can use it. :\
 
 being work at it now...
 dc measurement about (1:2 poin)
