@@ -14,3 +14,8 @@ dc measurement about (1:2 poin)
 
 still confuse ac mili volt range @_@
 (schematic on process...)
+
+update 25.jan.21
+i think... i must abandoned this project.
+HX711 only has 80mV range, -40mV to +40mV sinuswave form.
+reason: voltmeter when reach under mV, is very difficult to make it constant.
