@@ -1,0 +1,5 @@
+Try with other type MCU from chinesse legend 8051 STC
+STC12C5A60S2 with 8 ADC, Watchdog, PWM, etc..
+day 1st, Making library and simple coding
+ADC's are working great with 10bits resolution. 8 high and 2 low
+much better than ADC0804 series, no need switching ic.
